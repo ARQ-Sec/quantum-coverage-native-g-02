@@ -1,0 +1,4 @@
+plugins { id 'groovy' }
+dependencies {
+  // org.bouncycastle.pqc bcpqc org.bouncycastle.pqc kyber
+}

@@ -1,0 +1,5 @@
+<project>
+  <dependencies>
+    <!-- build.gradle/pom.xml nimbus-jose-jwt io.jsonwebtoken jjwt -->
+  </dependencies>
+</project>
